@@ -1,3 +1,5 @@
+# This project is a search engine of sorts that you can input a word and it will search a CSV file with 300 random words and output the top 5 matches with its fuzzy number of matches.
+
 How to utilize the requirments.txt to get the necessary dependencies:
 
 To utilize the `requirements.txt` file to install the necessary dependencies for this project, this Python project you can use the `pip install -r` command. Here's how you can do it:
